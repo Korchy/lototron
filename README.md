@@ -1,2 +1,3 @@
-# lototron
-Lototron
+# Lototron
+
+Random loto number generation
